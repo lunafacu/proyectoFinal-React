@@ -7,7 +7,7 @@ Aplicación de tienda online desarrollada con React, que permite gestionar un ca
 
 1. Clonar repositorio  
 ```bash
-git clone <url-del-repo>
+git clone <https://github.com/lunafacu/proyectoFinal-React.git>
 
 2. Instlar dependencias
 npm install
