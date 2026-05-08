@@ -18,18 +18,18 @@ npm install
 ```bash
 npm run dev
 ```
-Uso
--Navegar entre el catálogo, carrito y área de administración.
--Autenticarse para agregar productos al carrito o administrar el catálogo.
--Buscar productos por nombre o categoría.
--Paginación integrada para navegar por el catálogo.
+## Uso
+-Navegar entre el catálogo, carrito y área de administración.  
+-Autenticarse para agregar productos al carrito o administrar el catálogo.  
+-Buscar productos por nombre o categoría.  
+-Paginación integrada para navegar por el catálogo.  
 
-Tecnologías
--React
--Bootstrap
--Styled-components
--Axios
--React Router
--React Toastify
--React Helmet
--MockAPI
+## Tecnologías
+-React  
+-Bootstrap  
+-Styled-components  
+-Axios  
+-React Router  
+-React Toastify  
+-React Helmet  
+-MockAPI  
