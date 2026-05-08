@@ -8,13 +8,16 @@ Aplicación de tienda online desarrollada con React, que permite gestionar un ca
 1. Clonar repositorio  
 ```bash
 git clone https://github.com/lunafacu/proyectoFinal-React.git
+```
 
 2. Instlar dependencias
+```bash
 npm install
-
-3. Ejecutar aplicación localmente
-npm start
-
+```
+4. Ejecutar aplicación localmente
+```bash
+npm run dev
+```
 Uso
 -Navegar entre el catálogo, carrito y área de administración.
 -Autenticarse para agregar productos al carrito o administrar el catálogo.
