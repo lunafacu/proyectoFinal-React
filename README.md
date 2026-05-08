@@ -10,7 +10,7 @@ Aplicación de tienda online desarrollada con React, que permite gestionar un ca
 git clone https://github.com/lunafacu/proyectoFinal-React.git
 ```
 
-2. Instlar dependencias
+2. Instalar dependencias
 ```bash
 npm install
 ```
